@@ -73,10 +73,13 @@ Developed from **February – July 2022** by an 11-member team under *HomeTeam G
 ---
 
 ## 📸 Screenshots
-(Add 3–5 screenshots here)
+## 📸 Screenshots
+
+| Main Menu | Jet Mode | Robot Mode |
+|----------|----------|------------|
+| ![Menu](https://raw.githubusercontent.com/rodprogramdev/BattleSpaceInvasion/e9f6e279ed5936a8ed5bdec7c0bc79da78798b6b/BattleSpaceInvasion-Menu-Screenshot.png) | ![Jet](https://raw.githubusercontent.com/rodprogramdev/BattleSpaceInvasion/main/BattleSpaceInvasion-Combat-JetMode.png) | ![Robot](https://raw.githubusercontent.com/rodprogramdev/BattleSpaceInvasion/1a085602c9311414b4d632b20f4dc53eb8f668b9/BattleSpaceInvasion-Combat-RobotMode.png) |
 - Gameplay combat
 - Player transformation
-- Boss fight
 - UI/HUD
 
 ---
